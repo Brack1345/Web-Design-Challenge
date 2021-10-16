@@ -1,3 +1,3 @@
 # Web-Design-Challenge
 
-https://Brack1345.github.io/Landing.html
+https://Brack1345.github.io/Web-Design-Challenge/Landing.html
